@@ -2,11 +2,11 @@
 Making app distribution accessible to everyone!
 AHQ Store is an open source store client app created by @ahqsoftwares & his non profit org with the sole object to make a free client through which people can distribute their apps
 
-**Store Client:** https://github.com/ahqstore/tauri-ahq-store
+**Store Client:** https://github.com/ahqsoftwares/tauri-ahq-store
 
 **Upload your app:** https://github.com/ahqstore/apps
 
-**Our ite:** https://ahqstore.github.io
+**Our site:** https://ahqstore.github.io
 
 <!--
 
