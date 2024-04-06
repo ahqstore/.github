@@ -6,7 +6,7 @@ AHQ Store is an open source store client app created by @ahqsoftwares & his non 
 
 **Upload your app:** https://github.com/ahqstore/apps
 
-**Our ite:** https://ahqstore.github.io
+**Our site:** https://ahqstore.github.io
 
 <!--
 
