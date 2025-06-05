@@ -1,4 +1,6 @@
-## The AHQ Store Project
+[![Banner](../Social.png)](https://ahqstore.github.io)
+
+## <img src="../ASTORE.png" height="20" /> The AHQ Store Project
 Making app distribution accessible to everyone!
 AHQ Store is an open source store client app created by @ahqsoftwares & his non profit org with the sole object to make a free client through which people can distribute their apps
 
