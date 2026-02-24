@@ -14,10 +14,10 @@ AHQ Store is an open source store client app created by @ahqsoftwares & his non 
 
 **Our Privacy Stance:** [View Privacy Stance](https://ahqstore.github.io/privacy/index.html)
 
-## Platforms
+## 💻 Platforms
 
 | OS                  | Status             |
-| :-----------------: | :----------------: |
+| :------------------ | :----------------- |
 | Windows             | 10, 11             |
 | Android             | 9 through 16       |
 | Android (Optimal)   | 11 through 16      |
@@ -25,7 +25,7 @@ AHQ Store is an open source store client app created by @ahqsoftwares & his non 
 
 We do not support nor aim for Apple Inc. platform support
 
-## Tech Stack 🛠️
+## 🛠️ Tech Stack
 
 AHQ Store is built with 💖 using:
 - **Core:** [Rust 🦀](https://www.rust-lang.org/)
