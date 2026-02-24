@@ -25,10 +25,10 @@ AHQ Store is an open source store client app created by @ahqsoftwares & his non 
 
 We do not support nor aim for Apple Inc. platform support
 
-Built with 💖 and: 
-- Rust 🦀
-- Tauri, React, Kotlin 🎯 (Client)
-- Self written CLI Stack 🦀
-- C ABI 🔨
+## Tech Stack 🛠️
 
-Infrastructure hosted on GitHub
+AHQ Store is built with 💖 using:
+- **Core:** [Rust 🦀](https://www.rust-lang.org/)
+- **Client:** [Tauri](https://tauri.app/), [React](https://react.dev/), and [Kotlin](https://kotlinlang.org/) 🎯
+- **Tooling:** Self-written CLI Stack 🦀 via **C ABI** 🔨
+- **Infrastructure:** Proudly hosted on **GitHub** ☁️
