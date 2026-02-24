@@ -16,20 +16,11 @@ AHQ Store is an open source store client app created by @ahqsoftwares & his non 
 
 ## Platforms
 
-AHQ Store is committed to support the following platforms:
-- Windows 10
-- Windows 11
-- Android 9
-- Android 10
-- Android 11 [recommended minimum]
-- Android 12
-- Android 12L
-- Android 13
-- Android 14
-- Android 15
-- Android 16
-
-Experimental support has been for the platform:
-- Linux
+| OS                  |                    |
+| :-----------------: | :----------------: |
+| Windows             | 10, 11             |
+| Android             | 9 through 16       |
+| Android (Optimal)   | 11 through 16      |
+| Linux               | Expected           |
 
 We do not support nor aim for Apple Inc. platform support
