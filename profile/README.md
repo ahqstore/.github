@@ -24,3 +24,11 @@ AHQ Store is an open source store client app created by @ahqsoftwares & his non 
 | Linux               | Expected           |
 
 We do not support nor aim for Apple Inc. platform support
+
+Built with 💖 with: 
+- Rust 🦀
+- Tauri, React, Kotlin 🎯 (Client)
+- Self written CLI Stack 🦀
+- C ABI 🔨
+
+Infrastructure hosted on GitHub
