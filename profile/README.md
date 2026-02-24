@@ -31,4 +31,5 @@ AHQ Store is built with 💖 using:
 - **Core:** [Rust 🦀](https://www.rust-lang.org/)
 - **Client:** [Tauri](https://tauri.app/), [React](https://react.dev/), and [Kotlin](https://kotlinlang.org/) 🎯
 - **Tooling:** Self-written CLI Stack 🦀 via **C ABI** 🔨
+- **Security:** Cryptographically verified Source Control
 - **Infrastructure:** Proudly hosted on **GitHub** ☁️
