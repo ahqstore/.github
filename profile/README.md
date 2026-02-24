@@ -16,7 +16,7 @@ AHQ Store is an open source store client app created by @ahqsoftwares & his non 
 
 ## Platforms
 
-| OS                  |                    |
+| OS                  | Status             |
 | :-----------------: | :----------------: |
 | Windows             | 10, 11             |
 | Android             | 9 through 16       |
